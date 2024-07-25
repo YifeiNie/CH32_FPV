@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//General_Files/drivers/pwm.h=UTF-8
+encoding//General_Files/drivers/uart.c=UTF-8
+encoding//User/RTOS_apps/Print_status.c=UTF-8
+encoding//User/RTOS_apps/Print_status.h=UTF-8
+encoding//User/RTOS_apps/control_handle.c=GBK
+encoding//User/RTOS_apps/control_handle.h=UTF-8
+encoding//User/RTOS_tasks.c=UTF-8
+encoding//User/main.c=UTF-8
